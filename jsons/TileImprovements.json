@@ -5,7 +5,7 @@
         "science": 1,
         "techRequired": "Trapping",
         "uniques": [
-            "Provides [+1 Science] for each [Deer, Sheep, Cattle, Horses] in this city",
+            "Provides [+1 Science] for each [Deer, Sheep, Cattle, Horses] <in this city>",
             "Pillaging this improvement yields approximately [+10] [Gold]",
             "Can only be built to improve a resource"
         ],
