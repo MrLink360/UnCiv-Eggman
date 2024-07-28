@@ -12,12 +12,11 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Iron",
 		"promotions": [
-			"Special Promotion"
+			"Shock I"
 		],
-		"attackSound": "death_egg_robot",
 		"uniques": [
-			"Can [paradrop]",
-			"Reduces adjacent enemies' combat strength by [-10%]"
+			"May paradrop up to [5] tiles from friendly territory",
+			"Adjacent enemies have [-10%] combat strength"
 		]
 	}
 ]

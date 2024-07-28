@@ -60,10 +60,10 @@
 			0
 		],
 		"uniqueName": "Scientific Genius",
-		"uniqueText": "Strategic Resources provide +1 Science. Receive a tech boost each time a scientific building/Wonder is built in your capital.",
+		"uniqueText": "Strategic resources provide +1 Science. Receive a tech boost each time a scientific building or Wonder is built in your capital.",
 		"uniques": [
-			"[Strategic Resources] provide [+1 Science]",
-			"Receive a [tech boost] each time a [scientific building] or [Wonder] is built in your capital"
+			"Strategic resources provide [+1 Science]",
+			"Receive a tech boost when a [scientific building] or [Wonder] is built in your [capital]"
 		],
 		"cities": [
 			"Metropolis",
