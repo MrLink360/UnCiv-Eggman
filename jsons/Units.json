@@ -14,9 +14,10 @@
 		"promotions": [
 			"Shock I"
 		],
+		"attackSound": "death_egg_robot",
 		"uniques": [
-			"May paradrop up to [5] tiles from friendly territory",
-			"Adjacent enemies have [-10%] combat strength"
+			"May Paradrop up to [5] tiles from inside friendly territory",
+			"[+10]% Strength for [Allied] units within [1] tile"
 		]
 	}
 ]
