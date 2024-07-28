@@ -63,7 +63,7 @@
 		"uniqueText": "Strategic resources provide +1 Science. Receive a tech boost each time a scientific building or Wonder is built in your capital.",
 		"uniques": [
 			"Strategic resources provide [+1 Science]",
-			"Receive a tech boost when a [scientific building] or [Wonder] is built in your [capital]"
+			"Receive a tech boost when a [scientific building] or [Wonder] is built in your [Capital]"
 		],
 		"cities": [
 			"Metropolis",
@@ -74,4 +74,5 @@
 			"Eggmanland"
 		]
 	}
+	
 ]
