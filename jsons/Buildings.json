@@ -1,25 +1,24 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Capsule",
+		"replaces": "Circus",
+		"uniqueTo": "Eggman Empire",
+		"cost": 100,
+		"maintenance": 2,
+		"requiredNearbyImprovedResources": [
+			"Deer",
+			"Sheep",
+			"Cattle",
+			"Horses"
+		],
+		"science": 10,
+		"percentStatBonus": {
+			"science": 10
+		},
+		"uniques": [
+			"[+1 Science] from each [Deer, Sheep, Cattle, Horses] in this city",
+			"Provides [extra gold] if city is captured"
+		],
+		"requiredTech": "Trapping"
 	}
 ]
